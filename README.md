@@ -1,0 +1,1 @@
+# Historical-and-Parametric-VaR-calculation-for-Portfolio
